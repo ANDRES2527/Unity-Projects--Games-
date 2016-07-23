@@ -6,5 +6,5 @@
 
 2) SortingAlgorithms:
 <li>Is an animation and a game of shaker and heap sort algorithms.
-li>The animation is a bar order animation.
-li>And the game is a complete desicion game to finally order according the shaker sort algorithm.
+<li>The animation is a bar order animation.
+<li>And the game is a complete desicion game to finally order according the shaker sort algorithm.
